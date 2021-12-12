@@ -71,7 +71,7 @@ function checkHorVerOverlaps(input) {
 console.log(checkHorVerOverlaps(input));
 
 
-PART 2
+// PART 2
 
 
 function checkAllOverlaps(input) {
